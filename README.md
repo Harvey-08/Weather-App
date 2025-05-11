@@ -13,7 +13,7 @@ This project is a simple weather app that displays the current weather condition
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React, HTML, CSS, JavaScript
 - **API**: OpenWeatherMap API (or any other weather API) to fetch real-time weather data.
 - **Design**: The design uses modern, vibrant gradients and minimalistic UI for a clean and visually appealing experience.
 - **Build Tools**: Vite (or similar build tool)
@@ -33,8 +33,8 @@ This project is a simple weather app that displays the current weather condition
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+   git clone https://github.com/yourusername/Weather-App.git
+   cd Weather-App
    
    ```
 2. Install Dependencies:
